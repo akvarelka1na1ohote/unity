@@ -10,14 +10,14 @@ double s;
 sm = x;
 s = x;
 
-for (int i = 3; i < 14; i + 2)
+for (int i = 3; i < 14; i += 2)
 {
     //double s;
     s *= (-1) * (x * x) / (i * (i - 1));
     //double sm;
     sm += s;
 }
-Console.Write(sm);
+Console.WriteLine($"Результат  равен {sm}");
 
 
 

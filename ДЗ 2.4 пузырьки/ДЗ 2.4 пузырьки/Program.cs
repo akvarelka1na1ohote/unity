@@ -19,7 +19,7 @@ public int Func(int n)
 {
     for (int i = 0; i < n-1 ; i++)
     {
-        for (int j = 0; j < n-1; j++)
+        for (int j = 0; j < n-1-i; j++)
         {
             if (number[j] > number[j + 1])
             {

@@ -1,0 +1,14 @@
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\bin\Debug\net8.0\Синус.exe
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\bin\Debug\net8.0\Синус.deps.json
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\bin\Debug\net8.0\Синус.runtimeconfig.json
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\bin\Debug\net8.0\Синус.dll
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\bin\Debug\net8.0\Синус.pdb
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\obj\Debug\net8.0\Синус.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\obj\Debug\net8.0\Синус.AssemblyInfoInputs.cache
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\obj\Debug\net8.0\Синус.AssemblyInfo.cs
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\obj\Debug\net8.0\Синус.csproj.CoreCompileInputs.cache
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\obj\Debug\net8.0\Синус.dll
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\obj\Debug\net8.0\refint\Синус.dll
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\obj\Debug\net8.0\Синус.pdb
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\obj\Debug\net8.0\Синус.genruntimeconfig.cache
+D:\ВУЗ\Герцена\3 курс\Игры Паша\Синус\Синус\obj\Debug\net8.0\ref\Синус.dll

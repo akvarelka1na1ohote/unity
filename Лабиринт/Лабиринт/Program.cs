@@ -4,7 +4,7 @@ namespace LabirintGame
 {
     class Program
     {
-        //static char[,] lab;  // лабиринт
+        static char[,] lab;  // лабиринт
         static int playerX, playerY;  // где игрок
         static int exitX, exitY;  // где выход
 
